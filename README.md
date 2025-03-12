@@ -12,6 +12,9 @@
 - Proposer la structuration des diagrammes en diagramme de package
 - Réaliser des maquettes de cette application
 
+### Resources
+
 ~~- Faire le GDocs~~
 
 - https://docs.google.com/document/d/1xqiPVoOK5QlJI4m-mqXLj4PpViVRFgXdxLRytc4wZ6U/edit?usp=sharing
+- https://www.figma.com/design/bFj9wvPVLCI4KiUZdMQGNk/Projet_Uber?node-id=1-1002&t=eytsTmfUwEf0TfKW-1
